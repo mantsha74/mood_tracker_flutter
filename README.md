@@ -1,15 +1,29 @@
-# mood_tracker
+#  Mood Tracker - Flutter App
 
-A new Flutter project.
+A simple and intuitive **Mood Tracker** built with Flutter and Firebase.  
+Developed as part of a 24-hour task submission.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- ✅ **Add Daily Mood** – Select mood with color-coded icons.
+- 📅 **View Mood History** – Calendar view of moods for each day.
+- 📊 **Insights** – See weekly/monthly mood patterns.
+- 🔐 **Firebase Integration** – Authentication & Firestore database.
+- 🌙 **Simple UI** – Clean and easy-to-use design.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ Tech Stack
+- **Flutter** (Dart)
+- **Firebase Authentication**
+- **Cloud Firestore**
+- **Provider** (State Management)
+- **Intl** (Date Formatting)
+
+---
+
+ Project Structure
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
